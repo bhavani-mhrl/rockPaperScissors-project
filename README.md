@@ -1,22 +1,25 @@
 # 🎮Rock Paper Scissors - Game
 
-# 📌 Overview
+## 📌 **Overview**
 
-- Built A web Page Containing 3 images which are Rock Paper Scissors to start playing,we should click one image among them,
-
----
-
-# 🌐 Live Website
-🚀 Experience the Game live!
-- ## Live Website - [Rock Paper Scissors -Game]( https://bhavani-mhrl.github.io/rockPaperScissors-project/)
+- **Built A web Page Containing 3 images which are Rock Paper Scissors to start playing,we should click one image among them**
 
 ---
 
-- if You Choose Rock(/Paper /Scissors) based on Computer choice it Increment the score ,
+## 🌐 **Live Website**
+🚀 **Experience the Game live!**
+- **Live Website** - [Rock Paper Scissors -Game]( https://bhavani-mhrl.github.io/rockPaperScissors-project/)
 
-- and it also Show the draw message if both computer and user chooses the same option then it will show the message (its draw try again),
+---
 
-- not only Draw it displays the appropriate Message based on both choices after comparing the user input and computer choice both it display did you won or not.
+## 🔍 **How to Use**
+🔹 Click on the image to choose your choice
+
+🔹 your playing against computer,it will choose randomly
+
+🔹 displays Appropriate msg
+
+---
 
 ## 📸Preview of Project
 
@@ -25,17 +28,17 @@
 ---
 
 ## 🌟 Features
-✔ Dark/Light - We can change from light mode to dark mode
-✔ Click - click on image to choose
-✔ Responsive Design – Ensures the website looks great on all devices.
+✔ **Click** - click on image to choose
+
+✔ **Responsive Design** – Ensures the website looks great on all devices.
 
 ---
 
 ## 💻 Technologies Used
 
-- HTML – Provides the structure and content of the website.
-- CSS – Styles the website for an engaging user experience.
-- JavaScript – Enhances interactivity, including real-time updates and dynamic messages.
+- **HTML** – Provides the structure and content of the website.
+- **CSS** – Styles the website for an engaging user experience.
+- **JavaScript** – Enhances interactivity, including real-time updates and dynamic messages.
 
 ---
 
@@ -63,5 +66,15 @@
 
 ![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/5f18474c35755ff97ba42dfb2307512a1de1f161/Screenshot%202025-09-23%20200605.png)
 
+---
 
+## 🚀 Future Plans
+🔹 **Player vs Player** will be implemented
+
+🔹 Toggle **Dark/Light** mode
+
+🔹 **Color the Webpage** on your Wish
+
+
+💡 **Stay tuned for updates!** 🎉
 
