@@ -12,11 +12,17 @@
 
 ![Rock Paper Scissor Preview](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/1efd0c12516f9d9397aa56ffd8f79227d0772465/Screenshot%202025-09-23%20200543.png)
 
-## 📸Preview of Project
+## 📸Preview-If User Won The Game
+- It Shows User coosen choice and computer choice
+- Display the Message
+- Lets preview the result
 
-![]()
+![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/9f0b6ee6ad792295b278e766f9544cbf5e0a7688/Screenshot%202025-09-23%20200625.png)
 
-## 📸Preview of Project
+## 📸Preview-If User Lose The Game
+- It Shows User coosen choice and computer choice
+- Display the Message
+- Lets preview the result
 
 ![]()
 
