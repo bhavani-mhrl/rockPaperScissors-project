@@ -80,3 +80,9 @@
 
 💡 **Stay tuned for updates!** 🎉
 
+---
+
+🙌 **Thank You!**
+
+👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,RockPaperScissors)
+
