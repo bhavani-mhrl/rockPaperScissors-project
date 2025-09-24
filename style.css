@@ -20,29 +20,29 @@ img{
     width: 170px;
     height:160px;
     border-radius: 50%;
-   margin-top:6rem;
+    margin-top:6rem;
 }
 #img1:hover{
-border:4px solid rgb(144, 42, 78);
+    border:4px solid rgb(144, 42, 78);
 }
 #img2:hover{
-border:4px solid rgb(122, 14, 115);
+    border:4px solid rgb(122, 14, 115);
 }
 #img3:hover{
-border:4px solid rgb(47, 92, 163);
+    border:4px solid rgb(47, 92, 163);
 }
 .choices{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   gap:4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:4rem;
 }
 .score{
-display: flex;
-justify-content: center;
-align-items: center;
-margin-top: 6rem;
-gap:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    gap:50px;
 }
 #user,#comp{
     font-size: 2.5rem;
@@ -53,16 +53,16 @@ gap:50px;
 }
 span{
     margin-top: 4rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #msg{
- font-size: 2rem;
-       display: inline;
-      border:3px solid black;
-      color:rgb(177, 28, 155);
-      border-radius: 4px;
-      text-align: center;
-      padding:0.5rem;
+    font-size: 2rem;
+    display: inline;
+    border:3px solid black;
+    color:rgb(177, 28, 155);
+    border-radius: 4px;
+    text-align: center;
+    padding:0.5rem;
 }
