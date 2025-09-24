@@ -2,7 +2,10 @@
 
 ## 📌 **Overview**
 
-- **Built A web Page Containing 3 images which are Rock Paper Scissors to start playing,we should click one image among them**
+- **Built A web Page, Rock Paper Scissors Which feels like you played with your frnd**
+- **ready to play games try our game now!**
+- **It relief stress and it has unlimited plays**
+- **Feel Free To Play**
 
 ---
 
@@ -59,8 +62,7 @@
 ![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/062a3c3a13933de8d656a183037b95a63384728c/Screenshot%202025-09-23%20200653.png)
 
 ## 📸Preview-If User & computer choose same option
-- It Shows User choice 1st, computer choice 2nd 
-- Display what beats Other
+- if both choose same option
 - Displays as Game is "Draw"
 - let's preview the result
 
