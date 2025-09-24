@@ -11,8 +11,7 @@
 
 ## 🌐 **Live Website**
 🚀 **Experience the Game live!**
-- **Live Website** - [Rock Paper Scissors -Game](
-   https://bhavani-mhrl.github.io/rockPaperScissors-project/)
+- **Live Website** - [Rock Paper Scissors -Game](https://bhavani-mhrl.github.io/rockPaperScissors-project/)
 
 ---
 
