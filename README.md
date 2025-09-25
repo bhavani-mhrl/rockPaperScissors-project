@@ -2,10 +2,7 @@
 
 ## 📌 **Overview**
 
-- **Built A web Page, Rock Paper Scissors Which feels like you played with your frnd**
-- **ready to play games try our game now!**
-- **It relief stress and it has unlimited plays**
-- **Feel Free To Play**
+- **This is a simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. It allows users to play against the computer in a classic game of strategy and chance. The project demonstrates core frontend development skills including DOM manipulation, event handling, and responsive UI design.**
 
 ---
 
@@ -31,9 +28,14 @@
 ---
 
 ## 🌟 Features
-✔ **Click** - click on image to choose
 
-✔ **Responsive Design** – Ensures the website looks great on all devices.
+✔ **Responsive Design** 
+
+✔ **Semantic HTML structure**
+✔ **Clean and organized CSS**
+✔ **Custom fonts and icons**
+✔ **Cross-browser compatibility**
+
 
 ---
 
