@@ -32,8 +32,11 @@
 ✔ **Responsive Design** 
 
 ✔ **Semantic HTML structure**
+
 ✔ **Clean and organized CSS**
+
 ✔ **Custom fonts and icons**
+
 ✔ **Cross-browser compatibility**
 
 
